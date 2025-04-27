@@ -29,9 +29,8 @@ When I'm not coding, you’ll find me:
 
 ### 📊 GitHub Stats
 
->  ![ayangweb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevASMRite&theme=onedark&show_icons=true&hide_title=true)
-  <span width="10px">       </span>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+> > >  ![ayangweb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevASMRite&theme=onedark&show_icons=true&hide_title=true)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
 

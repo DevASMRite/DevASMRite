@@ -29,7 +29,7 @@ When I'm not coding, you’ll find me:
 
 ### 📊 GitHub Stats
 
-![ayangweb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevASMRite&theme=tokyonight&show_icons=true&hide_title=true)
+![ayangweb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevASMRite&theme=onedark&show_icons=true&hide_title=true)
 
 ---
 
